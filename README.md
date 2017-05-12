@@ -1,5 +1,5 @@
 # generator-micro-boilerplate [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> 
+>
 
 ## Installation
 
@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-micro-boilerplate using 
 
 ```bash
 npm install -g yo
-npm install -g generator-micro-boilerplate
+npm install -g generator-the-minimalist
 ```
 
 Then generate your new project:
 
 ```bash
-yo micro-boilerplate
+yo the-minimalist
 ```
 
 ## Getting To Know Yeoman
