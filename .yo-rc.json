@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Alex Jenter",
+      "authorEmail": "jenteralex@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}

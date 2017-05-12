@@ -1,0 +1,18 @@
+$color-main: black;
+
+@import "_fonts";
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  line-height: 1.2;
+  font-family: #{$font}, serif;
+  color: $color-main;
+}
+
+h1 {
+  color: black;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 1px black;
+}
